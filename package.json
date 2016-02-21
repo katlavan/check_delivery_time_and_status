@@ -8,9 +8,7 @@
     "url": "git+https://github.com/vulpino/berb.git"
   },
   "author": "vulpino",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vulpino/berb/issues"
+  "license": "MIT"
   },
   "homepage": "https://github.com/vulpino/berb#readme",
   "devDependencies": {
